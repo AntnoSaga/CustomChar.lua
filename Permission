@@ -1,4 +1,4 @@
-local Module = {}
+local module = {}
 module.PlayersTier = {
   ["logui122_X"] = {Tier = 2000};
 }
@@ -8,3 +8,5 @@ module.Characters = {
   PlayersPermission = {}
   }
 }
+
+return module
