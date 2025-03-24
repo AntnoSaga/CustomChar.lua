@@ -1,1 +1,10 @@
+local Module = {}
+module.PlayersTier = {
+  ["logui122_X"] = {Tier = 2000};
+}
 
+module.Characters = {
+  ["Template"] = {Icon = rbxassetid://0, Tier = 1, 
+  PlayersPermission = {}
+  }
+}
