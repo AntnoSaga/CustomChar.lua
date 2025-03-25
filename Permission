@@ -1,12 +1,11 @@
-local module = {}
-module.PlayersTier = {
-  ["logui122_X"] = {Tier = 2000};
-}
+local CustomChar = {
+	PlayersTier = {
+		["logui122_X"] = {Tier = 2000};
+	};
 
-module.Characters = {
-  ["Template"] = {Icon = "rbxassetid://0", Tier = 1, 
-  PlayersPermission = {}
-  }
+	Characters = {
+		["Template"] = {Icon = "rbxassetid://0", Tier = 1, 
+			PlayersPermission = {1449978472}
+		}
+	};
 }
-
-return module
