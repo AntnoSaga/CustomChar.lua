@@ -4,7 +4,7 @@ module.PlayersTier = {
 }
 
 module.Characters = {
-  ["Template"] = {Icon = rbxassetid://0, Tier = 1, 
+  ["Template"] = {Icon = "rbxassetid://0", Tier = 1, 
   PlayersPermission = {}
   }
 }
