@@ -9,3 +9,5 @@ local CustomChar = {
 		}
 	};
 }
+
+return CustomChar
