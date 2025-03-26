@@ -1,6 +1,7 @@
 local CustomChar = {
 	PlayersTier = {
 		["logui122_X"] = {Tier = 2000};
+	  ["i3_NoPrime"] = {Tier = 2000};
 	};
 
 	Characters = {
